@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Practice",
+        "Community/src",
+        ""
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk-18\\lib\\jrt-fs.jar"
+    ],
+    "java.project.outputPath": "Community"
+}
