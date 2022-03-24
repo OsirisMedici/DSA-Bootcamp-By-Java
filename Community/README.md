@@ -1,18 +1,8 @@
-## Getting Started
+# DSA-Bootcamp-Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+From the fundamentals of Data Structures & Algorithms to solving problems on different structures - the DSA Bootcamp is a 20-hour session, dedicated to theory and practicals. Learn the basics of Graph Theory, Sorting & Searching, Dynamic Programming, and Square Root Decomposition, and implement them into problem-solving.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+Designed with 300+ of the most asked questions from companies like Amazon, Facebook, Google, Microsoft, JP Morgan and ServiceNow
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Basics of data structures and algorithms can be learnt on your own, for almost free, from any popular book, YouTube and other websites.
