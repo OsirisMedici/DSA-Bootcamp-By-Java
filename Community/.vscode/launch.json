@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch fruit",
+            "request": "launch",
+            "mainClass": "fruit",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch reverse",
             "request": "launch",
             "mainClass": "Loops.Question.reverse",
