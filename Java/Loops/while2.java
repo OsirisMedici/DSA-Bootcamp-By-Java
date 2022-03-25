@@ -1,4 +1,3 @@
-package Loops;
 
 public class while2 {
     public static void main(String[] args) {

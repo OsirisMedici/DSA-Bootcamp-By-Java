@@ -1,4 +1,3 @@
-package Loops;
 
 public class hlo5 {
     public static void main(String[] args) {

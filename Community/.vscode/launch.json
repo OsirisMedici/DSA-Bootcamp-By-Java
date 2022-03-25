@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch remender",
+            "request": "launch",
+            "mainClass": "Question.remender",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch hlo5",
+            "request": "launch",
+            "mainClass": "hlo5",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch fruit",
             "request": "launch",
             "mainClass": "fruit",

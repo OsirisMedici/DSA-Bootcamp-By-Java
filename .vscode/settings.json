@@ -2,7 +2,9 @@
     "java.project.sourcePaths": [
         ".",
         "Java",
-        "Java\\switch"
+        "Java\\Functions",
+        "Java\\switch",
+        "Java\\Loops"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
