@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "Loops.Question.reverse",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch remender",
+            "request": "launch",
+            "mainClass": "Loops.Question.remender",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch febo",
+            "request": "launch",
+            "mainClass": "Loops.Question.febo",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch largest",
+            "request": "launch",
+            "mainClass": "Loops.Question.largest",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch doWhile",
+            "request": "launch",
+            "mainClass": "Loops.doWhile",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch while2",
+            "request": "launch",
+            "mainClass": "Loops.while2",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch num8",
+            "request": "launch",
+            "mainClass": "Loops.num8",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch hlo5",
+            "request": "launch",
+            "mainClass": "Loops.hlo5",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch salery",
             "request": "launch",
             "mainClass": "salery",
