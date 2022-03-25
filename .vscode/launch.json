@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch salery",
+            "request": "launch",
+            "mainClass": "salery",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch salery",
+            "request": "launch",
+            "mainClass": "Loops.salery",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch doubleStudent",
             "request": "launch",
             "mainClass": "doubleStudent",
