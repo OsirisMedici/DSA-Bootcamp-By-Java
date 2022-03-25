@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch doubleStudent",
+            "request": "launch",
+            "mainClass": "doubleStudent",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch dot",
             "request": "launch",
             "mainClass": "Java.dot",
