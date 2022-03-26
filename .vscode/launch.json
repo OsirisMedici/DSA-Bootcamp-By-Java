@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch findMin",
+            "request": "launch",
+            "mainClass": "Arrays.findMin",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch inp",
             "request": "launch",
             "mainClass": "Arrays.inp",

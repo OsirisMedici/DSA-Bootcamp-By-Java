@@ -1,7 +1,3 @@
-package Arrays;
-
-import java.lang.reflect.Array;
-
 public class start {
     public static void main(String[] args) {
 
