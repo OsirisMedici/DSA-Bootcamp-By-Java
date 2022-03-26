@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch inp",
+            "request": "launch",
+            "mainClass": "Arrays.inp",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrInput",
+            "request": "launch",
+            "mainClass": "Arrays.arrInput",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch start",
+            "request": "launch",
+            "mainClass": "Arrays.start",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch first5",
             "request": "launch",
             "mainClass": "first5",
