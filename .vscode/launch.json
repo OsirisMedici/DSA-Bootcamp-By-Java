@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch first5",
+            "request": "launch",
+            "mainClass": "first5",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch young",
             "request": "launch",
             "mainClass": "young",
