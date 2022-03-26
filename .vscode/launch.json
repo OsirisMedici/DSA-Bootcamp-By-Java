@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch young",
+            "request": "launch",
+            "mainClass": "young",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddEven",
+            "request": "launch",
+            "mainClass": "oddEven",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestSmallest",
+            "request": "launch",
+            "mainClass": "largestSmallest",
+            "projectName": "DSA-Bootcamp-By-Java_92b77749"
+        },
+        {
+            "type": "java",
             "name": "Launch remender",
             "request": "launch",
             "mainClass": "Question.remender",
