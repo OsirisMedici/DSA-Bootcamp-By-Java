@@ -1,10 +1,10 @@
 {
     "java.project.sourcePaths": [
         "Java",
-        "Java\\Arrays",
         "Java\\Functions",
         "Java\\Loops",
-        "Java\\switch"
+        "Java\\switch",
+        "Java\\Arrays"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
